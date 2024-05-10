@@ -1,0 +1,2 @@
+# Predicting-Annual-Energy-Bill-Expenditure-and-Identifying-Financial-Struggles-with-Machine-Learning
+Project aims: predict customer struggles with energy bill payments using machine learning. Historical data on demographics, heating systems, spending habits used to develop predictive model. Also, forecast annual expenditure variations due to energy cost increases. Actionable insights for AENERGY to address customer financial challenges.
